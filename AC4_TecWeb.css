@@ -1,0 +1,111 @@
+.fontnegrito {
+font-style: italic;
+
+}
+
+.campo_nome {
+background-color: blue;
+
+}
+
+.campo_nome:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+.campo_endereço {
+background-color: blue;
+
+}
+
+.campo_endereço:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+.campo_cidade {
+background-color: blue;
+
+}
+
+.campo_cidade:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+.campo_UF {
+background-color: blue;
+
+}
+
+.campo_UF:hover {
+	background-color: white;
+	font-weight: bold;
+
+}
+
+
+
+.campo_RG {
+background-color: blue;
+
+}
+
+.campo_RG:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+.campo_CPF {
+background-color: blue;
+
+}
+
+.campo_CPF:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+.campo_email {
+background-color: blue;
+
+}
+
+.campo_email:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+.campo_RG {
+background-color: blue;
+
+}
+
+.campo_RG:hover {
+	background-color: white;
+	font-weight: bold;
+}
+
+
+
+
+.msg {
+background-color: blue;
+
+}
+
+.msg:hover {
+	background-color: white;
+	font-weight: bold;
+}
